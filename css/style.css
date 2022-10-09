@@ -1,0 +1,25 @@
+body {
+  background-color: #f8ede3;
+}
+
+hr {
+  background-color: rgb(65, 3, 3);
+  border-style: none;
+  height: 2px;
+}
+
+.table {
+  margin-right: auto;
+  margin-left: auto;
+}
+.banner {
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  border-style: dashed;
+  box-shadow: 10px 5px 5px black;
+}
+.egitim {
+  border-style: dashed;
+}
